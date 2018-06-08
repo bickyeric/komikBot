@@ -14,8 +14,8 @@ from linebot.models import *
 app = Flask(__name__)
 
 # botPush
-channel_secret = "c57d24d63aec93a386f418ae958c2911"
-channel_access_token = "YPDNya/4JsJUP5xoBvDTGaxuu6ud8X01SaDtkh57TtrgrfOV8/2/36Dp3J/v+NHAKfD91IYgRNp6iKxWuv4aLOOm/c3LfujJxf+uLG16fhQDe1c8DNwa4H7GUeyVoaWVh/uKEFs3xUHKJidDAHSUIwdB04t89/1O/w1cDnyilFU="
+channel_secret = ""
+channel_access_token = ""
 
 base_API_url = 'http://127.0.0.1/backend-bot'
 # base_API_url = "https://backend-bot.000webhostapp.com"
